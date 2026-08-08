@@ -1,7 +1,6 @@
 # AP-Digital-Protfolio
 A collection of my work completed throughout the AP Computer Science Principles (AP CSP) course, documenting my development as a programmer through projects, problem-solving, experimentation and reflection.
 
-
 This repository serves as a digital record of my AP CSP coursework and demonstrates how I applied programming concepts to create functional software while developing my understanding of the software development process.
 
 <br>
@@ -19,6 +18,10 @@ The portfolio includes:
 - Screenshots and demonstrations
 - Reflections on the development process
 - Supporting AP CSP materials
+
+<br>
+
+>Please review the [Copyright & Usage](#copyright--usage) section before using or redistributing materials from this repository.
 
 <br>
 
@@ -50,3 +53,16 @@ Too low! Attempts so far: 2
 ```
 
 The project demonstrates how fundamental programming concepts can be combined to create an interactive and reusable program.
+
+<br>
+
+## Copyright & Usage
+
+This repository contains academic coursework, programming projects, documentation, and supporting materials created as part of my AP Computer Science Principles studies.
+
+Unless otherwise stated, the original code, documentation, and other materials in this repository are my own work and are provided for **educational and portfolio purposes**.
+
+Please do not copy, redistribute, or present any of the original work in this repository as your own without permission.
+
+Some supporting materials may originate from third parties and remain subject to their respective copyrights and terms of use.
+
