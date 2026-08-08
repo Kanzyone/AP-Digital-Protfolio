@@ -19,3 +19,34 @@ The portfolio includes:
 - Screenshots and demonstrations
 - Reflections on the development process
 - Supporting AP CSP materials
+
+<br>
+
+## Featured Project: Number Guessing Game
+
+One of the main programming projects included in this portfolio is a **Number Guessing Game** developed in Python. The program generates a random number between 1 and 100 and asks the user to repeatedly guess the number until they find the correct answer.
+
+The project goes beyond a simple guessing loop by tracking the player's guesses and providing additional information such as:
+
+* Whether a guess is too high or too low
+* The number of attempts
+* Complete guess history
+* Highest and lowest guesses
+* Average guess value
+* Input validation
+* The ability to replay the game
+
+Example
+
+```text
+Welcome to the Number Guessing Game!
+I am thinking of a number between 1 and 100.
+
+Enter your guess: 50
+Too high! Attempts so far: 1
+
+Enter your guess: 25
+Too low! Attempts so far: 2
+```
+
+The project demonstrates how fundamental programming concepts can be combined to create an interactive and reusable program.
