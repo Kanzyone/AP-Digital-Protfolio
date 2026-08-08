@@ -56,6 +56,14 @@ The project demonstrates how fundamental programming concepts can be combined to
 
 <br>
 
+## Wiki
+
+This repository includes a dedicated **Wiki** that provides detailed documentation of the project's development process, technical implementation, AP CSP concepts, testing, debugging, and design decisions. It offers a deeper look into how the project was planned, developed, tested, and refined beyond what is presented in the main README.
+
+If you are interested in exploring the reasoning behind the code, understanding the programming concepts demonstrated in the project, or learning more about the development process, please **[visit the Wiki](../../wiki)**.=
+
+<br>
+
 ## Copyright & Usage
 
 This repository contains academic coursework, programming projects, documentation, and supporting materials created as part of my AP Computer Science Principles studies.
